@@ -1,0 +1,5 @@
+# 敏感配置文件 - 包含 API Key
+config.json
+
+# 也可以排除特定的输出目录（如果需要）
+# output/
